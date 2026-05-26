@@ -1,2 +1,2 @@
 # ML_Projects
-This project has implementation of supervised learning
+This project is basic project related to Machine Learning Concepts.
