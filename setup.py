@@ -1,4 +1,4 @@
-# Thisi file is responsible for creating packages required for this project and build
+# This file is responsible for creating packages required for this project and build
 from setuptools import find_packages, setup
 from typing import List
 
