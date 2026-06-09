@@ -8,4 +8,5 @@ imbalanced-learn
 category_encoders
 catboost
 xgboost
+flask
 -e .
